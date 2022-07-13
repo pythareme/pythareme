@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pythareme
 - 👀 I’m interested in maths, clarinet and Moodle
 - 💞️ I’m looking to collaborate on Moodle development
-- 📫 How to reach me pin.eetaa722@gmail.com
 
 <!---
 pythareme/pythareme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
